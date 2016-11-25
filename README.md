@@ -13,8 +13,8 @@ targetcli from puppet
 A module that help configure target iscsi lio service. 
 Intended to deploy easy a iscsi server on RedHat Family OSs.
 You can:
-    * add new iscsi backstores
-    * configure iscsi target names with acls, luns and portals.
+- add new iscsi backstores
+- configure iscsi target names with acls, luns and portals.
 
 Puppet dependencies (Puppet modules):
     stdlib
