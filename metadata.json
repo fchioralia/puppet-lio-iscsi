@@ -1,0 +1,18 @@
+{
+  "name": "lio-iscsi",
+  "version": "0.0.1",
+  "author": "fchioralia@gmail",
+  "summary": "targetcli with puppet",
+  "license": "Apache 2.0",
+  "source": "https://github.com/fchioralia/puppet-lio-iscsi",
+  "project_page": "https://github.com/fchioralia/puppet-lio-iscsi",
+  "issues_url": "https://github.com/fchioralia/puppet-lio-iscsi/issues",
+  "tags": ["targetcli", "lio", "iscsi", "target"],
+  "operatingsystem_support": [
+    {"operatingsystem":"RedHat","operatingsystemrelease":[ "6.0", "7.0" ] },
+  ],
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
